@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1514140570 source:c:\users\abdullah\desktop\programs\ab\resource.rc
+	"wx/msw/wx.rc"
+
+1520409338 c:\wxwidgets-3.0.4\include\wx\msw\wx.rc
+	<windows.h>
+	"wx/msw/wince/wince.rc"
+	"wx/msw/rcdefs.h"
+
+1520409338 c:\wxwidgets-3.0.4\include\wx\msw\wince\wince.rc
+	<commctrl.h>
+	"wx/msw/wince/resources.h"
+	"wx/msw/wince/smartphone.rc"
+
+1520409338 c:\wxwidgets-3.0.4\include\wx\msw\wince\resources.h
+
+1520409338 c:\wxwidgets-3.0.4\include\wx\msw\wince\smartphone.rc
+	<aygshell.h>
+
+1520409338 c:\wxwidgets-3.0.4\include\wx\msw\rcdefs.h
+
